@@ -1,4 +1,4 @@
-# FDTD-PIC-Integration
+# ADI-FDTD-PIC-Integration
 
 =====================================================
 
